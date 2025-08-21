@@ -25,3 +25,8 @@ gcc busca_linear.c -o busca_linear.exe
 gcc busca_binaria.c -o busca_binaria.exe
 ./busca_binaria.exe
 ```
+
+```
+gcc cpf_busca.c -o cpf_busca.exe
+./cpf_busca.exe
+```
